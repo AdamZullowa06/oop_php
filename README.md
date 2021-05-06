@@ -13,5 +13,6 @@ Baca sesuai urutan :
 - construct.php
 - object-type.php
 - inheritance-problem.php
+- inheritance.php
 
 Semoga bermanfaat, terima kasih.
