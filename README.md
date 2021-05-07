@@ -14,5 +14,7 @@ Baca sesuai urutan :
 - object-type.php
 - inheritance-problem.php
 - inheritance.php
+- override.php
+- visibility.php
 
 Semoga bermanfaat, terima kasih.
