@@ -16,5 +16,6 @@ Baca sesuai urutan :
 - inheritance.php
 - override.php
 - visibility.php
+- setter-getter.php
 
 Semoga bermanfaat, terima kasih.
