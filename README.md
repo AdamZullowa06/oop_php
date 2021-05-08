@@ -18,5 +18,6 @@ Baca sesuai urutan :
 - visibility.php
 - setter-getter.php
 - static.php
+- constant.php
 
 Semoga bermanfaat, terima kasih.
