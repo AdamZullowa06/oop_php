@@ -17,5 +17,6 @@ Baca sesuai urutan :
 - override.php
 - visibility.php
 - setter-getter.php
+- static.php
 
 Semoga bermanfaat, terima kasih.
