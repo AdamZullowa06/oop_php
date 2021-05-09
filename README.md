@@ -20,5 +20,6 @@ Baca sesuai urutan :
 - static.php
 - constant.php
 - abstract.php
+- interface.php
 
 Semoga bermanfaat, terima kasih.
