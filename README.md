@@ -19,5 +19,6 @@ Baca sesuai urutan :
 - setter-getter.php
 - static.php
 - constant.php
+- abstract.php
 
 Semoga bermanfaat, terima kasih.
