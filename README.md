@@ -22,5 +22,6 @@ Baca sesuai urutan :
 - abstract.php
 - interface.php
 - /autoloading
+- /namespace
 
 Semoga bermanfaat, terima kasih.
